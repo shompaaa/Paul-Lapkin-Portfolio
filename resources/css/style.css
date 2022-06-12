@@ -151,7 +151,7 @@ ul li {
 
 #hero{
     height: 100vh;
-    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(img/hero.jpg) no-repeat center / cover;
+    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(images/hero.jpg) no-repeat center / cover;
 }
 
 .logo{
@@ -385,7 +385,7 @@ h1::after{
 =========================================================================*/
 
 #experience{
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img/experience.jpg) no-repeat center / cover;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(images/experience.jpg) no-repeat center / cover;
     color: #fff;
     background-attachment: fixed;
 }
@@ -450,31 +450,31 @@ h1::after{
 }
 
 .grid-portfolio-items:nth-child(1) {
-    background: url(img/lw1.jpg) no-repeat center / cover;
+    background: url(images/lw1.jpg) no-repeat center / cover;
 }
 
 .grid-portfolio-items:nth-child(2) {
-    background: url(img/lw2.jpg) no-repeat center / cover;
+    background: url(images/lw2.jpg) no-repeat center / cover;
 }
 .grid-portfolio-items:nth-child(3) {
-    background: url(img/lw3.jpg) no-repeat center / cover;
+    background: url(images/lw3.jpg) no-repeat center / cover;
 }
 .grid-portfolio-items:nth-child(4) {
-    background: url(img/lw4.jpg) no-repeat center / cover;
+    background: url(images/lw4.jpg) no-repeat center / cover;
 }
 
 .grid-portfolio-items:nth-child(5) {
-    background: url(img/lw5.jpg) no-repeat center / cover;
+    background: url(images/lw5.jpg) no-repeat center / cover;
     grid-column-start: 1;
     grid-column-end: 3;
 }
 
 .grid-portfolio-items:nth-child(6) {
-    background: url(img/lw6.jpg) no-repeat center / cover;
+    background: url(images/lw6.jpg) no-repeat center / cover;
 }
 
 .grid-portfolio-items:nth-child(7) {
-    background: url(img/lw7.jpg) no-repeat center / cover;
+    background: url(images/lw7.jpg) no-repeat center / cover;
 }
 
 .portfolio-filter {
@@ -507,7 +507,7 @@ h1::after{
 =========================================================================*/
 
 #testimonial {
-    background: url(img/testimonial.jpg) no-repeat center / cover;
+    background: url(images/testimonial.jpg) no-repeat center / cover;
 
 }
 
@@ -543,7 +543,7 @@ h1::after{
 =========================================================================*/
 
 #contact {
-    background: url(img/contact.jpg) no-repeat center / cover;
+    background: url(images/contact.jpg) no-repeat center / cover;
     background-attachment: fixed;
 }
 
